@@ -1,0 +1,6 @@
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

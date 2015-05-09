@@ -1,0 +1,5 @@
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\02.LastDigitofNumber\bin\Debug\02.LastDigitofNumber.exe.config
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\02.LastDigitofNumber\bin\Debug\02.LastDigitofNumber.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\02.LastDigitofNumber\bin\Debug\02.LastDigitofNumber.pdb
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\02.LastDigitofNumber\obj\Debug\02.LastDigitofNumber.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\02.LastDigitofNumber\obj\Debug\02.LastDigitofNumber.pdb

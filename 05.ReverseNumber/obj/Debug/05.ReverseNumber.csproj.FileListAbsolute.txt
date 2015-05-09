@@ -1,0 +1,5 @@
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

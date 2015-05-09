@@ -1,0 +1,5 @@
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb

@@ -1,0 +1,5 @@
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+F:\CSharpPrograms\AdvancedCSharp\01.BiggerNumber\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
